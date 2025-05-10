@@ -59,9 +59,4 @@ Modularização de componentes em React
 
 Uso de bibliotecas de estilo (Bootstrap)
 
-📸 Captura de tela
-
-📄 Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para usar, estudar e modificar.
-
 Desenvolvido com cuidado e atenção por Valber Gabriel
