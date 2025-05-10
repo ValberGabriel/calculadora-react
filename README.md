@@ -47,7 +47,9 @@ npm start
 A aplicação abrirá automaticamente no navegador em: http://localhost:3000
 
 🧠 Aprendizados
-Este projeto foi desenvolvido com o objetivo de praticar:
+Este projeto foi desenvolvido como parte do desafio final do módulo de React da formação da DIO.me, com o objetivo de consolidar os conhecimentos adquiridos ao longo do curso. A proposta prática ajuda a fixar os conceitos fundamentais da biblioteca React, com foco em componentes funcionais e interatividade.
+
+Durante o desenvolvimento, foram praticados:
 
 Manipulação de estado com useState e useEffect
 
@@ -57,6 +59,8 @@ Integração com eventos do teclado
 
 Modularização de componentes em React
 
-Uso de bibliotecas de estilo (Bootstrap)
+Estilização com a biblioteca Bootstrap
+
+Organização e publicação de projeto no GitHub
 
 Desenvolvido com cuidado e atenção por Valber Gabriel
